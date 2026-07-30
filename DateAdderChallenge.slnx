@@ -1,8 +1,0 @@
-<Solution>
-  <Folder Name="/src/">
-    <Project Path="src/DateAdder/DateAdder.csproj" />
-  </Folder>
-  <Folder Name="/tests/">
-    <Project Path="tests/DateAdder.Tests/DateAdder.Tests.csproj" />
-  </Folder>
-</Solution>
